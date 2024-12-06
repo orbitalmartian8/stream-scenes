@@ -1,10 +1,10 @@
 module.exports = {
-  twitchUsername: "5t3phDev",
+  twitchUsername: "orbitalmartian8",
   title: "✨ Stream title here",
   // accepts HTML
-  description: "@5t3ph // Stephanie Eckles",
-  cta: "buymeacoffee.com/moderncss",
-  chatCommands: ["css", "dev", "yay"],
+  description: "@orbitalmartian8 // OrbitalMartian",
+  cta: "alpha.polymaths.social/@orbitalmartian",
+  //chatCommands: ["", "dev", "yay"],
   preshowMessage:
-    "Welcome! 👋🏽 Where are you joining from? What are you hoping to learn?",
+    "Welcome! 👋🏽 Where are you joining from? How's it going?",
 };
